@@ -1,5 +1,11 @@
-![Build Openwrt img](https://github.com/mingxiaoyu/N1imagebuilder/workflows/Build%20Openwrt%20img/badge.svg)
 
+![Build Openwrt img](https://github.com/mingxiaoyu/N1imagebuilder/workflows/Build%20Openwrt%20img/badge.svg)
+# Fork 项目
+自定义内容：
+1. 修改内置了多个mt和rtl的wifi设备的内核驱动支持
+2. 其它自定义修改
+
+# 来源内容
 基于flippy的38+o和55+o打包Phicomm N1的openwrt
 
 N1_MXY_Openwrt.img.xz 是计划我个人用的旁路由设置。目前没有完成。
